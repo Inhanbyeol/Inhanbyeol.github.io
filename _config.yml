@@ -97,9 +97,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: inhanbyeol94/inhanbyeol94.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOJkJdlw
+    repo_id: R_kgDOJwppfA
     category: General
-    category_id: DIC_kwDOJkJdl84CWwC-
+    category_id: DIC_kwDOJwppfM4CXSEB
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
