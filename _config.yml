@@ -23,26 +23,26 @@ title: Instar devlog # the main title
 tagline: 아가도리 사료창고 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Inhanbyeol's gitblog
+  inhanbyeol94's gitblog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://inhanbyeol.github.io/"
+url: "https://inhanbyeol94.github.io/"
 
 github:
-  username: Inhanbyeol # change to your github username
+  username: inhanbyeol94 # change to your github username
 
 twitter:
-  username: Inhanbyeol # change to your twitter username
+  username: inhanbyeol94 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: inhanbyeol
+  name: inhanbyeol94
   email: inhanbyeol94@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/Inhanbyeol # change to your twitter homepage
-    - https://github.com/Inhanbyeol # change to your github homepage
+    - https://github.com/inhanbyeol94 # change to your twitter homepage
+    - https://github.com/inhanbyeol94 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://raw.githubusercontent.com/Inhanbyeol/Inhanbyeol.github.io/master/assets/img/"
+img_cdn: "https://raw.githubusercontent.com/inhanbyeol94/inhanbyeol94.github.io/master/assets/img/"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "profile.png"
@@ -96,7 +96,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Inhanbyeol/Inhanbyeol.github.io # <gh-username>/<repo>
+    repo: inhanbyeol94/inhanbyeol94.github.io # <gh-username>/<repo>
     repo_id: R_kgDOJkJdlw
     category: General
     category_id: DIC_kwDOJkJdl84CWwC-
