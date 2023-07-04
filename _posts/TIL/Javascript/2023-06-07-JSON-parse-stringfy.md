@@ -1,7 +1,7 @@
 ---
 title: JSON.parse()와 JSON.stringify()
 categories: [Today I Learned, Javascript]
-tags: [JSON.parse, JSON.stringify] # TAG names should always be lowercase
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 ## JSON.parse()

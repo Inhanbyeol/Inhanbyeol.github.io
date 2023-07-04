@@ -1,7 +1,7 @@
 ---
 title: var, let, const
 categories: [Today I Learned, Javascript]
-tags: [var, let, const] # TAG names should always be lowercase
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 ## 변수 선언 방식

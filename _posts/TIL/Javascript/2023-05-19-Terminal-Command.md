@@ -1,7 +1,7 @@
 ---
 title: Terminal Command
 categories: [Today I Learned, Javascript]
-tags: [cmd, bash, zsh] # TAG names should always be lowercase
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 ### Print Working Directory

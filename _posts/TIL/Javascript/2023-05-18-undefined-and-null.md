@@ -1,7 +1,7 @@
 ---
 title: undefined, null 차이점
 categories: [Today I Learned, Javascript]
-tags: [undefined, "null"] # TAG names should always be lowercase
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 > **null**과 **undefined**를 보이는 그대로 해석하면 ‘빈 값’과 ‘없는 값’을 의미하는 것처럼 보이지만 사실 큰 차이점이 있다.

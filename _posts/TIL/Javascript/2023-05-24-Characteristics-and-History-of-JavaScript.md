@@ -1,7 +1,7 @@
 ---
 title: 자바스크립트의 특징과 역사
 categories: [Today I Learned, Javascript]
-tags: [JavaScript-History, Characteristics-of-JavaScript]
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 ## 자바스크립트 특징과 역사

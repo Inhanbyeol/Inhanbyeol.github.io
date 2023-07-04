@@ -1,7 +1,7 @@
 ---
 title: toUpperCase, toLowerCase
 categories: [Today I Learned, Javascript]
-tags: [toUpperCase, toLowerCase] # TAG names should always be lowercase
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 

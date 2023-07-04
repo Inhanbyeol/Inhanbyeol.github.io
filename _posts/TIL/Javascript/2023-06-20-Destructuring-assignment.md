@@ -1,7 +1,7 @@
 ---
 title: 구조 분해 할당
 categories: [Today I Learned, Javascript]
-tags: [Destructuring-assignment] # TAG names should always be lowercase
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 > 구조 분해 할당 구문은 배열이나 객체의 속성을 해체하여 그 값을 개별 변수에 담을 수 있게 하는 JavaScript 표현식입니다.

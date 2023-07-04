@@ -1,7 +1,7 @@
 ---
 title: 얕은 복사와 깊은 복사
 categories: [Today I Learned, Javascript]
-tags: [shallow-copy-and-deep-copy]
+tags: [Javascript] # TAG names should always be lowercase
 ---
 
 # shallow copy and deep copy
