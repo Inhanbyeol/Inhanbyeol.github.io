@@ -1,5 +1,5 @@
 ---
-title: Nest.js (Install TypeORM)
+title: Nest.js (TypeORM init)
 categories: [Today I Learned, Typescript]
 tags: [NestJS, TypeORM] # TAG names should always be lowercase
 ---
